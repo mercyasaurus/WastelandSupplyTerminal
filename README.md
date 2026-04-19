@@ -37,10 +37,10 @@ Donations are never required, but always appreciated! :)
 
 ---------------
 ### Screenshots
-![Boot Screen](images/Boot Screen)
-![Example Recipe](images/Example Recipe)
-![Recipe Directory](images/Recipe Directory)
-![Big Bloom Example](images/Big Bloom Example
+![Boot Screen](images/Boot Screen.png)
+![Example Recipe](images/Example Recipe.png)
+![Recipe Directory](images/Recipe Directory.png)
+![Big Bloom Example](images/Big Bloom Example.png)
 Programming Language: Python
 Credits: 
 Fallout 76 is owned by Bethesda Game Studios.
