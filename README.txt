@@ -18,7 +18,7 @@ https://mercyasaurus.itch.io/wastelandsupplyterminal
 
 You can also use a temporary web version (no download required) via
 Streamlit using this link:
-	wsterminal.streamlit.app
+wsterminal.streamlit.app 
 (Please note that the Streamlit page is temporary as I work on an
 official website.)
 ---------------
